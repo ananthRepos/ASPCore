@@ -47,7 +47,7 @@
         "gulp-sass": "~4.0.1",
         "gulp-sourcemaps": "~2.6.4",
         "gulp-uglify": "~3.0.1",
-        "node-sass": "^4.7.2"
+        "node-sass": "^4.13.1"
     },
     "resolutions": {
         "gulp-sass/node-sass": "4.7.2"
